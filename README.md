@@ -309,4 +309,5 @@ class MusicViewTestCase(APITestCase):
 
 ##### 設定 Django Debug Config
 
+![alt tag](https://github.com/lastingyeh/DjangoAPIs/blob/master/RestAPIs/debug.jpeg)
 
