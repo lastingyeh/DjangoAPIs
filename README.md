@@ -302,12 +302,16 @@ class MusicViewTestCase(APITestCase):
 ##### 瀏覽 Database 結構
 
 + 安裝 plugins 路徑 : Preferences / Plugins / Browse Repositories / Database Navigator
-        
-##### 解決 pycharm import 上一層模組錯誤問題
 
-+ 加入 Source Folders 參考路徑 : Preferences / Project: DjangoAPIs / Project Structure => (Right Click) RestAPIs => (Sources)
+![alt tag](https://github.com/lastingyeh/DjangoAPIs/blob/master/res/browse_repos.jpeg)
+        
+##### 解決 pycharm import 上層模組錯誤問題
+
++ 加入 Source Folders 參考路徑 : (Right Click) RestAPIs => (Sources)
+
+![alt tag](https://github.com/lastingyeh/DjangoAPIs/blob/master/res/plugins_path.jpeg)
 
 ##### 設定 Django Debug Config
 
-![alt tag](https://github.com/lastingyeh/DjangoAPIs/blob/master/RestAPIs/debug.jpeg)
+![alt tag](https://github.com/lastingyeh/DjangoAPIs/blob/master/res/debug.jpeg)
 
